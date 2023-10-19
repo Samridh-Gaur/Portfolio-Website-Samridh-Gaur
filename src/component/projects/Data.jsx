@@ -15,7 +15,7 @@ export const Data = [
     title: "Ed-Tech Platform",
     description:
       "StudyNotion aims to provide a seamless and interactive learning experience for students, making education more accessible and engaging. Additionally, the platform serves as a platform for instructors to showcase their expertise and connect with learners across the globe. StudyNotion is a fully functional ed-tech platform that enables users to create, consume, and rate educational content. The platform is built using the MERN stack, which includes ReactJS, NodeJS, MongoDB, and ExpressJS.",
-      link:"",
+      link:"https://edtech-platform-study-notion-samridh-gaur.vercel.app/",
   },
     {
       id: 2,
