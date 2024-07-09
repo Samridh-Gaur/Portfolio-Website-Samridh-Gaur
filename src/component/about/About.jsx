@@ -23,9 +23,9 @@ const About = () => {
                     about learning new things , result driven, meeting new people and exploring new experience."
                   </p>
 
-                    <a target="_blank" href="" 
+                    <a target="_blank" href="https://drive.google.com/file/d/1GjSC6QQjRKl453tvzm0zqsYrDftwXGO9/view?usp=sharing" 
                    className="button button-flex">  {/*Resume link provided*/}
-                      View Resume (Uploading soon)
+                      View Resume
                   
                    {/*view k bagal me file type image k liye*/}
                     <svg
